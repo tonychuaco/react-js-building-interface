@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/react-js-building-interface/static/css/main.075a71a4.chunk.css",
-    "main.js": "/react-js-building-interface/static/js/main.6e2eba0f.chunk.js",
-    "main.js.map": "/react-js-building-interface/static/js/main.6e2eba0f.chunk.js.map",
-    "runtime-main.js": "/react-js-building-interface/static/js/runtime-main.104ad62c.js",
-    "runtime-main.js.map": "/react-js-building-interface/static/js/runtime-main.104ad62c.js.map",
+    "main.js": "/react-js-building-interface/static/js/main.c6bdce2b.chunk.js",
+    "main.js.map": "/react-js-building-interface/static/js/main.c6bdce2b.chunk.js.map",
+    "runtime-main.js": "/react-js-building-interface/static/js/runtime-main.c2855109.js",
+    "runtime-main.js.map": "/react-js-building-interface/static/js/runtime-main.c2855109.js.map",
     "static/css/2.89f067aa.chunk.css": "/react-js-building-interface/static/css/2.89f067aa.chunk.css",
-    "static/js/2.c6fa7700.chunk.js": "/react-js-building-interface/static/js/2.c6fa7700.chunk.js",
-    "static/js/2.c6fa7700.chunk.js.map": "/react-js-building-interface/static/js/2.c6fa7700.chunk.js.map",
+    "static/js/2.08e94c9f.chunk.js": "/react-js-building-interface/static/js/2.08e94c9f.chunk.js",
+    "static/js/2.08e94c9f.chunk.js.map": "/react-js-building-interface/static/js/2.08e94c9f.chunk.js.map",
     "index.html": "/react-js-building-interface/index.html",
-    "precache-manifest.606b865c41d71e6c3ca2f82041446e43.js": "/react-js-building-interface/precache-manifest.606b865c41d71e6c3ca2f82041446e43.js",
+    "precache-manifest.f813e1e1121e046defcbac79bce402c3.js": "/react-js-building-interface/precache-manifest.f813e1e1121e046defcbac79bce402c3.js",
     "service-worker.js": "/react-js-building-interface/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/react-js-building-interface/static/css/2.89f067aa.chunk.css.map",
     "static/css/main.075a71a4.chunk.css.map": "/react-js-building-interface/static/css/main.075a71a4.chunk.css.map",
-    "static/js/2.c6fa7700.chunk.js.LICENSE.txt": "/react-js-building-interface/static/js/2.c6fa7700.chunk.js.LICENSE.txt"
+    "static/js/2.08e94c9f.chunk.js.LICENSE.txt": "/react-js-building-interface/static/js/2.08e94c9f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.104ad62c.js",
+    "static/js/runtime-main.c2855109.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.c6fa7700.chunk.js",
+    "static/js/2.08e94c9f.chunk.js",
     "static/css/main.075a71a4.chunk.css",
-    "static/js/main.6e2eba0f.chunk.js"
+    "static/js/main.c6bdce2b.chunk.js"
   ]
 }

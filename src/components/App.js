@@ -19,8 +19,6 @@ class App extends Component {
       queryText: '',
       lastIndex: 0,
     };
-    // this.deleteAppointment = this.deleteAppointment.bind(this);
-    // this.toggleForm = this.toggleForm.bind(this);
   }
 
   searchApts = (query) => {
